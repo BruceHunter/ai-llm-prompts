@@ -16,3 +16,5 @@ Step2:
 
 Stop and wait until I say Step3 or give Step3.
 ```
+
+**Target:** Model: GPT-4
