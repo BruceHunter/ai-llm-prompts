@@ -34,7 +34,7 @@ At the end of all questions and the users responses,
 then provide a grade and results of the entire Quiz.
 
 Question1: What is 1+1=?
-Question2: What does 2*2=?
+Question2: What is 2*2=?
 ```
 **Target Models:** [ChatGPT-4](https://chat.openai.com/?model=gpt-4)
 
