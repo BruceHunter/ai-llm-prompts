@@ -1,5 +1,5 @@
 
-# AI LLM (Large Lanuage Model) Prompts
+# AI - LLM (Large Language Model) - Prompts
 
 ## Example of a Step and Stop prompt
 
