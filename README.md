@@ -19,7 +19,20 @@ Step2:
 
 Stop and wait until I say Step3 or give Step3.
 ```
+**Target** Models: [ChatGPT-4]
 
+## Example 2
+### Step and Stop - Quiz, Grading and Results prompt
+
+This prompt can give a quiz to a user with all questions, gather the answers, then provide the grade for the full quiz and the results.
+
+**Prompt Input:**
+```
+Quiz User: After each 'Question', Stop and wait for the users response to each question. At the end of all questions and the users responses, then provide a grade and results of the entire Quiz.
+
+Question1: What is 1+1=?
+Question2: What does 2*2=?
+```
 **Target** Models: [ChatGPT-4]
 
 ## License
