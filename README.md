@@ -1,7 +1,8 @@
 
 # AI - LLM (Large Language Model) - Prompts
 
-## Example of a Step and Stop prompt
+## Example 1
+### Step and Stop prompt
 
 This way you give it all the context up front. This will help make responses better.
 This is a prompt optimization.
