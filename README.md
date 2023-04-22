@@ -2,7 +2,7 @@
 # AI - LLM (Large Language Model) - Prompts
 
 ## Example 1
-### Step and Stop prompt
+### Step and Stop - Basic - prompt
 
 This way you give it all the context up front. This will help make responses better.
 This is a prompt optimization.
@@ -22,7 +22,7 @@ Stop and wait until I say Step3 or give Step3.
 **Target** Models: [ChatGPT-4]
 
 ## Example 2
-### Step and Stop - Quiz, Grading and Results prompt
+### Step and Stop - Quiz, Grading and Results - prompt
 
 This prompt can give a quiz to a user with all questions, gather the answers, 
 then provide the grade for the full quiz and the results.
