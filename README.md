@@ -18,3 +18,7 @@ Stop and wait until I say Step3 or give Step3.
 ```
 
 **Target:** Model: GPT-4
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
